@@ -26,9 +26,9 @@ The company markets its courses on several websites and search engines like Goog
 
 **Uploaded Files Details:**
 
-  Lead_Scoring_Assignment.ipynb : The jupyter notebook containing the assignment's code & reason for doing so.
-  Assignment Subjective Questions.pdf : Answeres to the subjective questions in the asignment.
-  Lead Scoring Assignment_ppt.pdf : The PPT converted to pdf.
-  Lead Scoring Assignment_summary_docs.pdf : Summary PDF of the word doc write up.
-  Leads.csv : Data worked on
-  Leads Data Dictionary.xlsx : Data Dictionary
+    Lead_Scoring_Assignment.ipynb : The jupyter notebook containing the assignment's code & reason for doing so.
+    Assignment Subjective Questions.pdf : Answeres to the subjective questions in the asignment.
+    Lead Scoring Assignment_ppt.pdf : The PPT converted to pdf.
+    Lead Scoring Assignment_summary_docs.pdf : Summary PDF of the word doc write up.
+    Leads.csv : Data worked on
+    Leads Data Dictionary.xlsx : Data Dictionary
